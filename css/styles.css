@@ -1,0 +1,41 @@
+
+.person1 {
+  font-family: sans-serif;
+  font-style: oblique;
+  font-size: 80pt;
+  color: #a57109;
+  font-stretch: ultra-expanded;
+}
+
+body {
+  text-align: center;
+  background-image: url("https://www.fancyhometrends.com/item/images/145050/1600x1600/Vliestapete-Bali-A-S--Creation-Tapete-95481-3-Floral-mod.jpg");
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 70pt;
+  font-weight: bold;
+  color: #f3b12c;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 60pt;
+  font-weight: lighter;
+  color: #f3b12c;
+}
+
+
+p {
+  font-family: cursive;
+  font-size: 17pt;
+  font-weight: normal;
+  color: #4e4c49;
+}
+
+.box {
+    border: 22px solid #4e4c49;
+    padding: 60px;
+    margin: 70px;
+}
